@@ -9,6 +9,10 @@ This is a simple 2D Verlet physics engine designed for simulating classical free
 - **Efficient Verlet Integration:** Utilizes a low-order Verlet integration algorithm for efficient and stable simulations.
 - **Sub-Framing Technique:** Incorporates a sub-framing technique to enhance the accuracy of real-time mechanics.
 
+## Installation
+
+This project utilizes CMake in order to build the library and executable. The CMake software or equivalent extensions are required to run the project.
+
 ## Contributions
 
 Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or create a pull request.
